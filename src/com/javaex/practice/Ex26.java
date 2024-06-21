@@ -16,7 +16,7 @@ public class Ex26 {
 		System.out.println("10년 동안 최대 저축액은 "+ maxPay +"원 입니다.");
 		
 	
-		
+		sc.close();
 	}
 
 }

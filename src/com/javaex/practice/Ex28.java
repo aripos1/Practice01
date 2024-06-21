@@ -16,6 +16,8 @@ public class Ex28 {
 		double c = w /d;
 		
 		System.out.println("받으실 달러는 "+c+" 입니다.");
+		
+		sc.close();
 	}
 	
 }

@@ -27,6 +27,8 @@ public class Ex31 {
 		System.out.println("부가세: "+price*1/10);
 		System.out.println("잔액: "+ (money-price));
 	
+		
+		sc.close();
 				
 	}
 

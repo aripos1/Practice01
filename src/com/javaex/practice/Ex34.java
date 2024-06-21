@@ -19,6 +19,8 @@ public class Ex34 {
 		
 		System.out.println("화씨 "+f+"의 섭씨온도는 "+c+" 입니다.");
 		
+		sc.close();
+		
 	}
 
 }

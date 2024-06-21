@@ -15,7 +15,7 @@ public class Ex30 {
 		
 		System.out.println(m+"마일은 "+m*km+"킬로미터 입니다.");
 		
-		
+		sc.close();
 	}
 
 }

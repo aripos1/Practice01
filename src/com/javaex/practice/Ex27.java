@@ -15,6 +15,8 @@ public class Ex27 {
 		double round = radius*radius *3.14;
 		
 		System.out.println("원의 넓이는 "+round+" 입니다.");
+		
+		sc.close();
 	}
 
 }

@@ -17,5 +17,7 @@ public class Ex38 {
 		
 		System.out.println("실제지불금액은 "+amount+ " 입니다.");
 		
+		sc.close();
+		
 	}
 }

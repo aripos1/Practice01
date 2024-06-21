@@ -18,5 +18,7 @@ public class Ex32 {
 		
 		System.out.println("삼각형의 넓이는 "+w*h/2+" 입니다.");
 		
+		
+		sc.close();
 	}
 }
