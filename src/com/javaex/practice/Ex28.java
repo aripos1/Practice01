@@ -8,15 +8,14 @@ public class Ex28 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("환전할 원화를 입력하세요: ");
+		final double d = 1230.95;
 		
+		System.out.print("환전할 원화를 입력하세요: ");
 		int w = sc.nextInt();
 		
-		final double oneD = 1230.95;
+		double c = w /d;
 		
-		double d = w /oneD;
-		
-		System.out.println("받으실 달러는 "+d);
+		System.out.println("받으실 달러는 "+c+" 입니다.");
 	}
 	
 }

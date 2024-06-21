@@ -8,11 +8,10 @@ public class Ex30 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("마일을 입력하세요: ");
-		
-		double m = sc.nextDouble();
-		
 		final double km = 1.609;
+		
+		System.out.print("마일을 입력하세요: ");
+		double m = sc.nextDouble();
 		
 		System.out.println(m+"마일은 "+m*km+"킬로미터 입니다.");
 		
