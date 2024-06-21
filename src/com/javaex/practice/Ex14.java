@@ -6,15 +6,15 @@ public class Ex14 {
 		
 		int a = 5;
 		
-		System.out.println(a);
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
+		System.out.println(a); // 5
+		System.out.println(++a); //6
+		System.out.println(a); // 6
+		System.out.println(a++); //6
+		System.out.println(a); //7
+		System.out.println(--a); //6
+		System.out.println(a); //6
+		System.out.println(a--); //6
+		System.out.println(a); //5
 		
 		
 
